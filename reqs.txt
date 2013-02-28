@@ -1,0 +1,9 @@
+alsa-lib       
+glibc          
+libXScrnSaver  
+libgcc         
+libstdc++      
+pulseaudio-libs
+qt             
+qt-webkit      
+qt-x11         
